@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER eyeos
+MAINTAINER Cristopher Castillo
 
 ENV ROOTPASSWORD android
 
